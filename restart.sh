@@ -3,5 +3,6 @@ then
     echo uaseco is running!
 else
     rm pid.txt
+    #./webrequset.sh
     ./uaseco.sh
 fi
