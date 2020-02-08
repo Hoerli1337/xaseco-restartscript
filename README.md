@@ -13,3 +13,6 @@ Script to restart xaseco with a cronjob if the system is crashed
 It checks via CronJob every X minutes if the XAseco process is still present.
 If so, the script does nothing and terminates again.
 If not, the script restarts XAseco and then terminates.
+
+# Need the script for uaseco?
+https://github.com/Hoerli1337/uaseco-restartscript
